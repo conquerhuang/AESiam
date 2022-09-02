@@ -7,7 +7,7 @@ if __name__ == '__main__':
     cluster2_path = r'../pretrained/cluster1_14.pth'
     cluster3_path = r'../pretrained/cluster2_16.pth'
     cluster4_path = r'../pretrained/cluster3_37.pth'
-    cluster5_path = r'../pretrained/cluster4_13.pth'
+    cluster5_path = r'../pretrained/cluster4_13.pth' 
     cluster6_path = r'../pretrained/cluster5_17.pth'
 
     tracker_cluster = TrackerSiamvgg_cluster()
